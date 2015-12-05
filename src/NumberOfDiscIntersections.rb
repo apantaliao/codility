@@ -1,4 +1,6 @@
 def solution(a) 
+  # Correctness 100
+  # Performance 25 
   end_points = [] 
   a.each_with_index do |ai, i| 
     end_points << [i - ai, i + ai] 
