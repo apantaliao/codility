@@ -37,5 +37,5 @@ def compare(a, b, index, increment)
   end
 end
 
-puts solution([3,4,5,6,7,8,9],[1,0,1,0,1,0,1])
-puts solution([3,4,5,6,7,8,9],[0,0,0,0,0,0,1])
+#puts solution([3,4,5,6,7,8,9],[1,0,1,0,1,0,1])
+puts solution([3,4,5,6,7,8,9],[0,0,0,0,1,0,0])
